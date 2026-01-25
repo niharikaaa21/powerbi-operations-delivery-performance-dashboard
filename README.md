@@ -1,4 +1,4 @@
-# Operations & Delivery Performance Dashboard (Power BI)
+# Operations & Delivery Performance Dashboard
 
 ## Overview
 
