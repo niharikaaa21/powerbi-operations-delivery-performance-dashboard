@@ -3,7 +3,7 @@
 ## Overview
 
 This dashboard analyzes delivery performance and SLA adherence for a global e-commerce business using **Power BI**.
-It provides insights into **average delivery times, SLA breaches, regional performance, and shipping mode effectiveness** to help operations teams make informed, data-driven decisions.p.
+It provides insights into **average delivery times, SLA breaches, regional performance, and shipping mode effectiveness** to help operations teams make informed, data-driven decisions.
 
 ---
 
