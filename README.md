@@ -119,9 +119,9 @@ The dashboard is designed to help stakeholders:
 
 ## Dataset
 
-- **Source:** Public E-Commerce dataset (Invoice-level transactional data)
-- **Time Period:** Dec 2010 – Dec 2011  
-- **Link:** [https://www.kaggle.com/datasets/carrie1/ecommerce-data  ](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+- **Source:** Global Superstore Dataset (Public Kaggle dataset)
+- **Content:** Order-level data with shipping details (Order Date, Ship Date, Ship Mode, Region)  
+- **Link:** https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales
 
 ---
 
